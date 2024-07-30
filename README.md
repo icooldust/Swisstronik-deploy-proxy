@@ -7,10 +7,9 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x39978b95ff4F2c7ddBBEa339f148E96e15218223
 ```
 
-Tutorial Video : [Youtube](https://youtu.be/IucFidGBwo8?si=AfvMha-QyylsfUg6)
 
 ## Steps
 
@@ -93,15 +92,7 @@ npm run upgrade
 
 by :
 
-github : [Mnuralim](https://github.com/Mnuralim)
-
-twitter : @Izzycracker04
-
-telegram : @fitriay19
-
-youtube : https://www.youtube.com/@IzzyTSN
-
-Ignore this!!!
+0x39978b95ff4F2c7ddBBEa339f148E96e15218223
 
 ```
 SWTRProxy = '0xea65D3f80d2253293a64e2f8DdF4CEC401823053'
